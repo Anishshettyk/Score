@@ -1,0 +1,35 @@
+.winner{
+	color:green;
+}
+.main{
+	margin-left: 20%;
+	border: 3px solid red;
+	margin-right: 20%;
+	text-align: center;
+	padding-bottom: 20px;
+	background-color: tan;
+
+}
+.first-heading{
+	text-align: center;
+	color: green;
+	border-bottom: 5px solid blue;
+	background-color: orange;
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80);
+	background-position: center;
+	background-size: cover;
+}
+#p1display{
+	font-family: 'Oswald', sans-serif;
+	font-size: 200px;
+}
+#p2display{
+	font-family: 'Oswald', sans-serif;
+	font-size: 200px;
+}
+.score-limit{
+	color:red;
+	font-size: 33px;
+}
